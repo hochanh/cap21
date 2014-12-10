@@ -2,7 +2,7 @@ _site
 _rmd/*.html
 .sass-cache
 _code/cache
-.Rproj.user
-*.Rproj
-.Rhistory
-.RData
+_code/.Rproj.user
+_code/*.Rproj
+_code/.Rhistory
+_code/.RData
