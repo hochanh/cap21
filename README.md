@@ -1,7 +1,7 @@
-vomanhtai.github.io
+hochanh.github.io/cap21
 ===
 
 
-Đây là mã nguồn trang [MạnhTài.vn](http://xn--mnhti-uqa9244c.vn).
+Đây là mã nguồn trang [cap21](http://hochanh.github.io/cap21).
 
-Địa chỉ gốc [vomanhtai.github.io](http://vomanhtai.github.io).
+Địa chỉ gốc [hochanh/cap21](http://github.com/hochanh/cap21).
