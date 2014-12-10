@@ -1,0 +1,8 @@
+_site
+_rmd/*.html
+.sass-cache
+_code/cache
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData

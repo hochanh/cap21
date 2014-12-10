@@ -1,0 +1,11 @@
+<div id="foot">
+<p>
+{% if page.title %}
+	<a href="../">[quay lại]</a>&nbsp;
+{% endif %}
+
+{% if page.converted %}
+	<a href="{{ page.path | remove_first: '_posts/' | replace_first: '.md', '.Rmd' | prepend: "//raw.githubusercontent.com/hochanh/cap21/gh-pages/_code/" }}" title="Rmd file" target="_blank">[code]</a>
+{% endif %}
+</p>
+</div>

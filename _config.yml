@@ -1,0 +1,14 @@
+title: Tư bản trong thế kỷ 21
+author: Mạnh Tài
+url: http://manhtai.github.io/cap21
+description: "Tư bản trong thế kỷ 21."
+
+permalink: /:title/
+highlighter: pygments
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+ - README.md
+ 
